@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace AmusementParkManagement
+namespace AmusementParkManagement.Models
 {
     internal class Ticket
     {
